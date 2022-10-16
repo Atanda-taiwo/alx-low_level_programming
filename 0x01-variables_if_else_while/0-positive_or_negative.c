@@ -5,7 +5,7 @@
  * main - to find positive, negative or zero int
  *
  * Return: 0
- **/
+ */
 int main(void)
 {
 	int n;
